@@ -1,2 +1,2 @@
-# figures-
+# figures
 repository for saving figures
